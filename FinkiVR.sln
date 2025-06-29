@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{280DD43D-57DB-A6AD-36D9-F67093D52415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardSamples", "CardboardSamples.csproj", "{3686DC11-96F1-DCFB-609A-2C4AD4A5C9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280DD43D-57DB-A6AD-36D9-F67093D52415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280DD43D-57DB-A6AD-36D9-F67093D52415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280DD43D-57DB-A6AD-36D9-F67093D52415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280DD43D-57DB-A6AD-36D9-F67093D52415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3686DC11-96F1-DCFB-609A-2C4AD4A5C9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3686DC11-96F1-DCFB-609A-2C4AD4A5C9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3686DC11-96F1-DCFB-609A-2C4AD4A5C9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3686DC11-96F1-DCFB-609A-2C4AD4A5C9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
