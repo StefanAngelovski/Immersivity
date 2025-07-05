@@ -6,6 +6,8 @@
 
 [Watch the demo video here](https://github.com/user-attachments/assets/fb556ac4-3354-45f6-a266-3d103e25b9c5)
 
+
+Note: The music you will hear belongs to Blizzard Entertainment as part of their game World of Warcraft. They own the intellectual rights, this is just a quick hackathon game so we had to use some ready resources.
 ---
 
 ## 🕹️ Gameplay Summary
