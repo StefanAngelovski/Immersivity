@@ -3,7 +3,7 @@
 **Third Place** – 2025 Finki VR Hackathon
 
 **Immersivity** is a short VR game made during a 4-hour hackathon. It's set in a medieval world where your goal is to discover the right combination of materials to create gold. Clues are hidden around the environment in the form of riddles, and you’ll need to explore, listen, and think to solve them.
-
+[Watch the demo video here](https://github.com/user-attachments/assets/fb556ac4-3354-45f6-a266-3d103e25b9c5)
 ---
 
 ## 🕹️ Gameplay Summary
